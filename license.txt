@@ -1,0 +1,7 @@
+Robots game is licensed under RUSTY FORCEPS LICENSE.
+
+You are allowed to change a fork of the game (the code) for personal or educational purpose. 
+Using the game code for commercial gain or creation of derivative works is not permitted. 
+You may not host a public facing site, even for free. Hosting a translated version of the game is not permitted.
+
+This license was unabashedly taken from Kittens Game, with alterations.
